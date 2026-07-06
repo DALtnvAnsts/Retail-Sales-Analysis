@@ -66,7 +66,7 @@ This project analyses retail sales data using Microsoft Excel. The aim was to ex
 - Business Reporting
 
 ---
-## 📷 Project Preview
+## 📊 Dashboard & Analysis
 
 ### Source Data
 ![Source Data](source-data.png)
