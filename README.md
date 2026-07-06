@@ -64,3 +64,15 @@ This project analyses retail sales data using Microsoft Excel. The aim was to ex
 - Data Visualisation
 - Slicers
 - Business Reporting
+
+---
+## 📷 Project Preview
+
+### Source Data
+![Source Data](source-data.png)
+
+### Sales Chart
+![Sales Chart](sales-chart.png)
+
+### Slicers
+![Slicers](slicers.png)
