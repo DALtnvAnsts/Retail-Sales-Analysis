@@ -21,7 +21,6 @@ This project analyses retail sales data using Microsoft Excel. The aim was to ex
 - Pivot Tables
 - Charts
 - SUM
-- Conditional Formatting
 - Slicers
 
 ---
@@ -34,7 +33,6 @@ This project analyses retail sales data using Microsoft Excel. The aim was to ex
 - Compared sales by gender.
 - Compared sales by product category.
 - Built a chart to visualise total sales by gender.
-- Applied Conditional Formatting.
 - Added Slicers for interactive filtering.
 
 ---
@@ -64,6 +62,5 @@ This project analyses retail sales data using Microsoft Excel. The aim was to ex
 - Pivot Tables
 - Charts
 - Data Visualisation
-- Conditional Formatting
 - Slicers
 - Business Reporting
