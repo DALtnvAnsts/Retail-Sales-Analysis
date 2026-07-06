@@ -71,8 +71,8 @@ This project analyses retail sales data using Microsoft Excel. The aim was to ex
 ### Source Data
 ![Source Data](source-data.png)
 
-### Sales Chart
-![Sales Chart](sales-chart.png)
-
 ### Slicers
 ![Slicers](slicers.png)
+
+### Sales Chart
+![Sales Chart](sales-chart.png)
